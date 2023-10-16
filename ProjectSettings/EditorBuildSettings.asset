@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/LAB 3/LAB 3 real.unity
+    guid: c3372460303fbd545a92c431f1c9a477
   m_configObjects: {}
